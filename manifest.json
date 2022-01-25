@@ -11,9 +11,9 @@
   "lang": "ko",
   "icons": [
     {
-      "src": "img/click.png",
+      "src": "img/loading.png",
       "type": "image/png",
-      "sizes": "64x72",
+      "sizes": "225x225",
       "purpose": "any"
     }
   ]
