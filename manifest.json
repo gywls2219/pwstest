@@ -65,12 +65,6 @@
       "purpose": "any"
     },
     {
-      "src": "images/600x600.png",
-      "type": "image/png",
-      "sizes": "600x600",
-      "purpose": "any"
-    },
-    {
       "src": "images/310x150.png",
       "type": "image/png",
       "sizes": "310x150",
@@ -89,18 +83,6 @@
       "purpose": "any"
     },
     {
-      "src": "images/620x300.png",
-      "type": "image/png",
-      "sizes": "620x300",
-      "purpose": "any"
-    },
-    {
-      "src": "images/1240x600.png",
-      "type": "image/png",
-      "sizes": "1240x600",
-      "purpose": "any"
-    },
-    {
       "src": "images/310x310.png",
       "type": "image/png",
       "sizes": "310x310",
@@ -116,18 +98,6 @@
       "src": "images/465x465.png",
       "type": "image/png",
       "sizes": "465x465",
-      "purpose": "any"
-    },
-    {
-      "src": "images/620x620.png",
-      "type": "image/png",
-      "sizes": "620x620",
-      "purpose": "any"
-    },
-    {
-      "src": "images/1240x1240.png",
-      "type": "image/png",
-      "sizes": "1240x1240",
       "purpose": "any"
     },
     {
@@ -191,36 +161,6 @@
       "purpose": "any"
     },
     {
-      "src": "images/620x300.png",
-      "type": "image/png",
-      "sizes": "620x300",
-      "purpose": "any"
-    },
-    {
-      "src": "images/775x375.png",
-      "type": "image/png",
-      "sizes": "775x375",
-      "purpose": "any"
-    },
-    {
-      "src": "images/930x450.png",
-      "type": "image/png",
-      "sizes": "930x450",
-      "purpose": "any"
-    },
-    {
-      "src": "images/1240x600.png",
-      "type": "image/png",
-      "sizes": "1240x600",
-      "purpose": "any"
-    },
-    {
-      "src": "images/2480x1200.png",
-      "type": "image/png",
-      "sizes": "2480x1200",
-      "purpose": "any"
-    },
-    {
       "src": "images/16x16.png",
       "type": "image/png",
       "sizes": "16x16",
@@ -488,12 +428,6 @@
       "src": "images/256x256.png",
       "type": "image/png",
       "sizes": "256x256",
-      "purpose": "any"
-    },
-    {
-      "src": "images/512x512.png",
-      "type": "image/png",
-      "sizes": "512x512",
       "purpose": "any"
     },
     {
@@ -668,18 +602,6 @@
       "src": "images/256x256.png",
       "type": "image/png",
       "sizes": "256x256",
-      "purpose": "any"
-    },
-    {
-      "src": "images/512x512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any"
-    },
-    {
-      "src": "images/1024x1024.png",
-      "type": "image/png",
-      "sizes": "1024x1024",
       "purpose": "any"
     }
   ]
