@@ -2,12 +2,13 @@
   "background_color": "#FFFFFF",
   "dir": "auto",
   "display": "standalone",
-  "name": "1만 시간의 법ㅣ",
+  "name": "1만 시간의 법칙",
   "orientation": "portrait",
   "scope": "/",
   "short_name": "시간의 법칙",
   "start_url": "https://gywls2219.github.io/pwstest",
   "theme_color": "#FFFFFF",
+  "lang": "ko",
   "icons": [
     {
       "src": "img/favicon.ico"
